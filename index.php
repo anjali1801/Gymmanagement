@@ -5,7 +5,7 @@
 		$uri = 'http://';
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/gymmanagement/login');
+	header('Location: '.$uri.'/gymmanagement/login/');
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
