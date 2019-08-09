@@ -1,0 +1,15 @@
+body
+{	background:url('../images/a.jpg') no-repeat;
+	height:100%;
+	width:100%;
+	background-size:1500px 1000px;
+}
+.dropbtn
+{
+		background-color: gray;
+		color:white;
+		min-width:160px;
+	    border-left:1px solid black;
+		  border-right:1px solid black;
+		   border-bottom:1px solid black;
+}
